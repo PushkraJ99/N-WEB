@@ -51,5 +51,15 @@ python n-web.py
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
 
-<h1>🔰 DEVELOPER :</h1>
-<--!<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
+## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
+
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  <b> Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
+</p>
