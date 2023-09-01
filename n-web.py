@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 #!/usr/bin/python2
-# Author : Nabil-Rahman 
 # Team : DarkWeb T-D
 
 try:
