@@ -34,18 +34,22 @@
 <br>
 <br>
 <h2><b>[+] INSTALLATION : </b></h2>
-<h3><b>apt update && apt upgrade</b></h3>
-<h3><b>pkg install git -y</b></h3>
-<h3><b>pkg install python && pkg install python2 -y</b></h3>
-<h3><b>pkg install php -y</b></h3>
-<h3><b>pkg install nmap -y</b></h3>
-<h3><b>git clone https://github.com/Nabil-Official/N-WEB</b></h3>
-<h3><b>cd N-WEB</b></h3>
-<h3><b>pip2 install -r requirements.txt</b></h3>
-<h2><i>[+] For Run :</i></h2>
-<h3><b>python2 n-web.py</b></h3>
+```
+apt update && apt upgrade
+pkg install git -y
+pkg install python && pkg install python2 -y
+pkg install php -y
+pkg install nmap -y
+git clone https://github.com/PushkraJ99/N-WEB
+cd N-WEB
+pip install -r requirements.txt
+python n-web.py
+```
+
 <br>
+
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
-<h1><i>🔰 DEVELOPER :</h1></i>
-<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
+
+#<h1>🔰 DEVELOPER :</h1>
+#<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
