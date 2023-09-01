@@ -51,5 +51,5 @@ python n-web.py
 <h2> It Provide Only For Legal Activities | If You Misuse It We Are Not Responsible For This</h2>
 <br>
 
-#<h1>🔰 DEVELOPER :</h1>
-#<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
+<h1>🔰 DEVELOPER :</h1>
+<--!<in><li><a href="https://m.facebook.com/nabil.404"><i>Nabil-Rahman (3RR0R)</i></a></i></li>
